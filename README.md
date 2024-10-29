@@ -13,7 +13,7 @@
 ---------------------------------------------
 How to use:
 install the tool:
-https://github.com/Ghassan0o0/track-my-ip.git
+git clone https://github.com/Ghassan0o0/track-my-ip.git
 
 run the file (trackip)
 use the command:
