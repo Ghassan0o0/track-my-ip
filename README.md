@@ -20,9 +20,9 @@ use the command:
 1-
 chmod +x trackip
 2-
-sudo bash trackip
+bash trackip
       OR
-      sudo ./trackip
+       ./trackip
 
 -----------------------------------------------------------------------------
 Write 1 for:
