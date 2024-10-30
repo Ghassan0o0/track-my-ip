@@ -18,8 +18,10 @@ git clone https://github.com/Ghassan0o0/track-my-ip.git
 run the file (trackip)
 use the command:
 1-
-chmod +x trackip
+cd track-my-ip
 2-
+chmod +x trackip
+3-
 bash trackip
       OR
        ./trackip
